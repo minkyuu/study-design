@@ -47,15 +47,17 @@ SRP의 효과
 
 OCP 지키는 방법
 
-* 인터페이스를 이용하여 변화하는 부분을 추상화!
+>: 변화하는 부분을 추상화한다!! (이 말의 의미는 디자인 패턴들을 공부하다보면 크게 느낄 수 있을 것입니다)
 
-* 상속를 이용하여 변화하는 부분을 추상화!
+1. 인터페이스를 이용
+
+2. 상속을 이용
 
 <br>
 
 OCP의 효과
 
-1. 변화하는 부분을 추상화함으로써 기존 코드를 수정하지 않고도, 확장을 할 수 있게 만들어 줍니다.
+* 변화하는 부분을 추상화함으로써 기존 코드를 수정하지 않고도, 확장을 할 수 있게 만들어 줍니다.
 
 
 <br>
@@ -148,13 +150,12 @@ Q. 그렇다면 의존성 주입 (DI)는 무엇일까??
 
 ---
 
-의존성 관련 : https://kotlinworld.com/64
-
 내용 출처 1 : https://victorydntmd.tistory.com/291
 
 내용 출처 2: https://www.nextree.co.kr/p6960/
 
-내용 출처 3(LSP, DIP) : https://velog.io/@kyle/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-SOLID-%EC%9B%90%EC%B9%99-%EC%9D%B4%EB%9E%80
-
 OCP : https://steady-coding.tistory.com/378
 
+내용 출처 3(LSP, DIP) : https://velog.io/@kyle/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-SOLID-%EC%9B%90%EC%B9%99-%EC%9D%B4%EB%9E%80
+
+의존성 관련 : https://kotlinworld.com/64

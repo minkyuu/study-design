@@ -47,7 +47,7 @@ class Singleton {
     private Singleton() {}
     
     public static Singleton getInstance() {
-        return instances;
+        return instance;
     }
 }
 ```

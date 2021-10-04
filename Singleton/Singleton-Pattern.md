@@ -39,6 +39,17 @@ class Singleton {
         return instance;
     }
 }
+    
+// 처음 싱글톤 객체 생성되는 부분도 문제 없도록 개선
+class Singleton {
+    private static Singleton instance = new Singleton();
+    
+    private Singleton() {}
+    
+    public static Singleton getInstance() {
+        return instances;
+    }
+}
 ```
 </div>
 </details>

@@ -15,7 +15,7 @@
 
 1주차 : [SOLID](https://github.com/minkyuu/study-design/blob/main/SOLID/SOLID.md) + [Singleton](https://github.com/minkyuu/study-design/blob/main/Singleton/Singleton-Pattern.md)
 
-2주차 : Adapter
+2주차 : [Adapter](https://github.com/minkyuu/study-design/blob/main/Adapter/Adapter-Pattern.md)
 
 3주차 : Strategy
 

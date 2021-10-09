@@ -98,6 +98,13 @@ Adapter Pattern의 장점
 
 <br>
 
+## 6. 끝으로... (About Design Pattern)
+* Adapter Pattern을 학습하면서 무엇을 느끼셨나요?
+
+* 외우려고 하기 보다 Pattern을 음미하셨으면 좋겠습니다. 그래서 여러 방식으로 활용을 할 수 있게 되면 좋을 것 같습니다.
+
+<br>
+
 ---
 
 참조 블로그 링크

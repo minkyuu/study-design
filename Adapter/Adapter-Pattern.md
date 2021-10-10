@@ -76,11 +76,11 @@ Adapter Pattern의 장점
 
     < Key Point >
     
-    * 변경하기 전 Target(220V)은 implements로 구현한다.
+    * 변경하려는 Target(110V) implements로 구현한다.
     
-    * 변경하려는 Target(110V)을 필드로 가지고 있고 
+    * 변경하기 전 Target(220V) 필드로 가지고 있고 
     
-    * 변경하려는 Target(110V)의 메서드를 implements한(220V) 메서드 안에서 호출한다.
+    * 변경하기 전 Target(220V) 메서드를 Override 한 메서드 (110V) 안에서 호출한다.
 
 </div>
 </details>

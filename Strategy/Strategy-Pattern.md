@@ -118,3 +118,5 @@ Q. Strategy Pattern을 학습해보시면서 무엇을 느끼셨나요??
 3. https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm
 
 4. https://velog.io/@kyle/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%A0%84%EB%9E%B5%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80
+
+5. https://siyoon210.tistory.com/97

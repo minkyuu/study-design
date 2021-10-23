@@ -17,7 +17,7 @@
 
 2주차 : [Adapter](https://github.com/minkyuu/study-design/blob/main/Adapter/Adapter-Pattern.md)
 
-3주차 : Strategy
+3주차 : [Strategy](https://github.com/minkyuu/study-design/blob/main/Strategy/Strategy-Pattern.md)
 
 4주차 : Decorator
 

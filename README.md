@@ -19,7 +19,7 @@
 
 3주차 : [Strategy](https://github.com/minkyuu/study-design/blob/main/Strategy/Strategy-Pattern.md)
 
-4주차 : Decorator
+4주차 : [Decorator](https://github.com/minkyuu/study-design/blob/main/Decorator/Decorator-Pattern.md)
 
 5주차 : State
 

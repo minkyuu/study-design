@@ -13,6 +13,10 @@
 
 ## 주차별 패턴
 
+* [디자인 패턴 종류 알아보기](https://github.com/minkyuu/study-design/wiki/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%A2%85%EB%A5%98)
+
+<br>
+
 1주차 : [SOLID](https://github.com/minkyuu/study-design/blob/main/SOLID/SOLID.md) + [Singleton](https://github.com/minkyuu/study-design/blob/main/Singleton/Singleton-Pattern.md)
 
 2주차 : [Adapter](https://github.com/minkyuu/study-design/blob/main/Adapter/Adapter-Pattern.md)

@@ -25,7 +25,7 @@
 
 4주차 : [Decorator](https://github.com/minkyuu/study-design/blob/main/Decorator/Decorator-Pattern.md)
 
-5주차 : State
+5주차 : [State](https://github.com/minkyuu/study-design/blob/main/State/State-Pattern.md)
 
 6주차 : Template Method
 

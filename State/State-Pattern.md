@@ -71,6 +71,27 @@ Q. State Pattern vs Strategy Pattern , 두 패턴은 어떻게 다른 것일까�
 
 <br>
 
+<details>
+<summary>두 패턴의 UML 비교</summary>
+<div markdown="1">
+  
+<br>
+  
+### Strategy Pattern UML
+
+![Strategy Pattern](https://media.vlpt.us/images/y_dragonrise/post/01b02920-5e7d-4a90-b5be-7cdfe0f6091d/image.png)
+
+<br>
+  
+### State Pattern UML
+
+![State Pattern UML](https://media.vlpt.us/images/y_dragonrise/post/b0cd2535-b0f8-4aa6-8fdc-7c1c164e89b2/image.png)
+
+</div>
+</details>
+  
+<br>
+
 ## 7. State Pattern을 마치면서 
 
 Q. State Pattern을 학습하시면서 어떤 것을 느끼셨나요?

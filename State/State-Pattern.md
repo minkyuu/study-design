@@ -87,8 +87,20 @@ Q. State Pattern vs Strategy Pattern , 두 패턴은 어떻게 다른 것일까�
 
 ![State Pattern UML](https://media.vlpt.us/images/y_dragonrise/post/b0cd2535-b0f8-4aa6-8fdc-7c1c164e89b2/image.png)
 
+
+### 추가 내용
+  
+State Pattern
+  
+  > 상태 패턴은 상태에 따라서 행동이 따라간다. (수동적인 느낌)
+  
+Strategy Pattern
+  
+  > 전략 패턴은 어떤 원하는 목표를 이루기 위해서 행동을 취한다. (능동적이고, 미래지향적)
+  
 </div>
 </details>
+
   
 <br>
 

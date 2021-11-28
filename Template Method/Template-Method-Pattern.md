@@ -101,6 +101,9 @@ Q. 5번 내용에서 다른 SOLID 원칙들은 어떤가요??
 
 Q. Template Method Pattern을 학습하면서 무엇을 느끼셨나요?
 
+
+* DB , Dispatcherservlet
+
 <br>
 
 ---

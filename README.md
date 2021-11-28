@@ -27,7 +27,7 @@
 
 5주차 : [State](https://github.com/minkyuu/study-design/blob/main/State/State-Pattern.md)
 
-6주차 : Template Method
+6주차 : [Template Method](https://github.com/minkyuu/study-design/blob/main/Template%20Method/Template-Method-Pattern.md)
 
 7주차 : Factory Method
 

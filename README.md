@@ -29,6 +29,6 @@
 
 6주차 : [Template Method](https://github.com/minkyuu/study-design/blob/main/Template%20Method/Template-Method-Pattern.md)
 
-7주차 : Factory Method
+7주차 : [Factory Method](https://github.com/minkyuu/study-design/blob/main/Factory%20Method/Factory-Method-Pattern.md)
 
 8주차 : Proxy

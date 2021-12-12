@@ -38,7 +38,7 @@ Proxy Pattern의 단점
 
 ## 3. "How" to apply Proxy Pattern?
 
-3.1. Proxy Pattern Class Diagram
+### 3.1. Proxy Pattern Class Diagram
 
 ![Proxy Pattern Class Diagram](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99A46433599FE0A41E)
 
@@ -72,6 +72,8 @@ RealSubject
 </details>
 
 <br>
+
+### 3.2. 구현 프로세스
 
 1. 원래 구조 분석
 

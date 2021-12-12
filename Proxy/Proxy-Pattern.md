@@ -222,3 +222,14 @@ Q. Spring을 공부하다 보면 나오는 "AOP"에서의 Proxy는 과연 어떨
 4. https://dailyheumsi.tistory.com/201
 
 5. https://velog.io/@ljinsk3/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-Proxy-Pattern
+
+
+--- 
+
+활용 관련 참고 블로그
+
+1. 웹 캐시 (https://fsd-jinss.tistory.com/35)
+
+2. 데이터베이스 캐시 (https://tmdahr1245.tistory.com/120)
+
+3. https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=252&dbnum=127324&mode=detail&type=techreport

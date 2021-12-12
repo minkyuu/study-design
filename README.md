@@ -31,4 +31,4 @@
 
 7주차 : [Factory Method](https://github.com/minkyuu/study-design/blob/main/Factory%20Method/Factory-Method-Pattern.md)
 
-8주차 : Proxy
+8주차 : [Proxy](https://github.com/minkyuu/study-design/blob/main/Proxy/Proxy-Pattern.md)
